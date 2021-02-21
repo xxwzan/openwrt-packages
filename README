@@ -10,6 +10,7 @@ luci-app-eqos
 luci-theme-ifit
 luci-theme-edge
 luci-theme-atmaterial
+luci-app-passwall
 by kenzok8
 
 luci-theme-rosy
