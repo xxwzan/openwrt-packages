@@ -1,15 +1,19 @@
-…or create a new repository on the command line
-echo "# openwrt-packages" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:xxwzan/openwrt-packages.git
-git push -u origin main
+luci-theme-argon-light-mod
+luci-theme-argon-dark
+luci-theme-argon-gray
+luci-theme-argon1
+by kongfl888
 
+AdGuardHome
+luci-app-adguardhome
+luci-app-eqos
+luci-theme-ifit
+luci-theme-edge
+luci-theme-atmaterial
+by kenzok8
 
+luci-theme-rosy
+by rosywrt
 
-
-git remote add origin https://github.com/xxwzan/openwrt-packages.git
-git branch -M main
-git push -u origin main
+luci-theme-argon
+by jerrykuku
